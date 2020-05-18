@@ -1,3 +1,32 @@
 // Place all the styles related to the Questions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  background: #CD533B;
+  font-family: Arial, sans-serif;
+// Using this variable
+}
+
+h1 {
+  background: #FEB95F;
+  font-size: 50px;
+  letter-spacing: -5px;
+}
+
+h2 {
+  letter-spacing: -1.5px;
+}
+
+
+.btn {
+  background-color: beige;
+  border-radius: 5px;
+  width: 140px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-family: Arial, sans-serif;
+  letter-spacing: 5px;
+}
